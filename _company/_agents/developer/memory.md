@@ -1,0 +1,37 @@
+# 💻 Developer (Lead Engineer) 개인 메모리
+
+_Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 패턴이 누적됩니다._
+
+## 학습 기록
+
+- [2026-05-05] Researcher가 정의한 엑셀 리포트의 최종 컬럼 구조(최소 13개 항목)를 확정하고, 데이터 수집 및 정제 프로세스를 위한 초기 데이터 파이프라인 설계 초안을 작성합니다. → 산출물 sessions/2026-05-05T03-01/developer.md
+- [2026-05-05] Researcher가 제공할 데이터 소스 목록을 바탕으로, 설계된 파이프라인 중 1.2단계(데이터 추출)를 구체화할 수 있도록, 초기 웹 크롤링/API 연동에 필요한 기술 스택 및 모듈 세부 구현 계획을 작성하여 준비하라. → 산출물 sessions/2026-05-05T03-05/developer.md
+- [2026-05-05] Researcher가 확정한 타겟 기관 목록과 데이터 구조(13개 컬럼)를 기반으로, 모듈 A (Discovery & Indexing)에 필요한 Schema Definition Generator의 초기 Pydantic 모델 초안을 즉시 작성하고, Developer가 설계한 데이터 파이프라인의 초기 구조를 검토하라. → 산출물 sessions/2026-05-05T03-13/developer.md
+- [2026-05-05] Researcher가 확정한 최우선 타겟 기관 경로 정보를 기반으로, 필요한 데이터 추출을 위한 기술적 모듈(크롤링/API 호출)의 초기 Pydantic 모델 초안을 작성하라. → 산출물 sessions/2026-05-05T07-00/developer.md
+- [2026-05-05] Secretary로부터 데이터 추출 프로세스 정의서 초안을 수신할 준비를 합니다. 현재로서는 Researcher의 최종 가이드라인을 기반으로, 데이터 수집 단계에서 필요한 핵심 API/웹 접근 경로에 대한 초기 기술적 요구사항(Schema Definition Generator의 초기 Pydantic 모델 초안 포함)을 미리 설계할 준비를 완료하십시오. → 산출물 sessions/2026-05-05T08-24/developer.md
+- [2026-05-05] Secretary가 전달할 SOP 초안을 검토하고, 연구과제 데이터 추출을 위한 기술적 모듈의 초기 설계(Schema Definition Generator 및 AMS 가중치 적용 로직)를 검토하여 필요한 기술적 기반을 확정합니다. → 산출물 sessions/2026-05-05T08-28/developer.md
+- [2026-05-05] 현재 설계된 Schema Definition Generator 및 AMS 가중치 로직 초안을 검토하고, 이 설계가 최종 목표인 '연구과제 채택 지원'에 필요한 데이터 포괄성을 갖추었는지 비판적으로 검토하여 피드백을 준비하라. (특히, AMS 가중치 설계가 비즈니스 목표에 부합하는지 확인) → 산출물 sessions/2026-05-05T08-32/developer.md
+- [2026-05-05] Researcher가 제출한 접근 경로 초안을 기반으로, 데이터 추출을 위한 기술적 모듈의 초기 설계(API 연동 및 데이터 파싱 로직)를 시작해 줘. → 산출물 sessions/2026-05-05T08-42/developer.md
+- [2026-05-05] Researcher가 승인한 스키마를 기반으로, 최우선 타겟 기관별로 실제로 데이터를 추출할 수 있는 **구체적인 데이터 추출 모듈(API/Crawler Hook) 초안**을 작성해야 함. → 산출물 sessions/2026-05-05T08-45/developer.md
+- [2026-05-05] Researcher의 최종 검토 피드백을 반영하여 데이터 추출 모듈 초안을 즉시 수정하고, 최종 승인 단계에 도달할 수 있도록 구현을 완료하라. → 산출물 sessions/2026-05-05T08-49/developer.md
+- [2026-05-05] Secretary로부터 받은 데이터 구조 정의 초안을 검토하고, 이 구조를 반영하여 연구과제 데이터베이스에 필요한 테이블(스키마) 설계안을 구체화하라. → 산출물 sessions/2026-05-05T08-52/developer.md
+- [2026-05-05] Researcher가 제출할 접근 경로 초안을 기반으로, 데이터 추출 모듈의 인터페이스 정의(API Endpoint 명세)를 구체화하고, 이 데이터 추출을 위한 초기 기술적 모듈 초안 작성을 시작하시오. → 산출물 sessions/2026-05-05T08-59/developer.md
+- [2026-05-05] 단계 2(핵심 모듈 구현)의 기술적 난이도(Complexity Score)를 명시하고, 이를 기반으로 '기술 스택 업그레이드 예산(Contingency)'의 구체적인 규모를 산출하여 제출할 것. (현재 스택 대비 필요한 인력/도구 업그레이드 비용 견적 포함) → 산출물 sessions/2026-05-05T09-13/developer.md
+- [2026-05-14] Researcher가 요구하는 데이터 추출 모듈 초안을 검토하고, Phase 2.1 Task의 초기 실행 환경(예: PostgreSQL 스키마 초안과 API 인터페이스 정의)을 즉시 구현하도록 지시합니다. (이전 작업물: sessions/2026-05-14T07-24/researcher.md 참조) → 산출물 sessions/2026-05-14T13-54/developer.md
+- [2026-05-20] Researcher가 확정할 SOP를 기반으로 PostgreSQL 데이터베이스 스키마 설계 착수 준비를 병렬로 진행하고, 초기 인터페이스 정의 검토를 시작하십시오. → 산출물 sessions/2026-05-20T16-25/developer.md
+- [2026-05-20] Researcher가 확정할 SOP의 초기 구조(데이터 요구사항 정의)를 검토하고, 이를 기반으로 PostgreSQL 데이터베이스 스키마 설계 착수 준비를 즉시 시작하십시오. 특히, Researcher의 산출물에 필요한 초기 인터페이스 정의(Phase 1 데이터 구조)를 설계 단계에서 반영할 수 있도록 준비하십시오. → 산출물 sessions/2026-05-20T17-10/developer.md
+- [2026-05-20] 확정된 SOP 기반의 PostgreSQL 데이터베이스 스키마 설계 착수 준비를 즉시 시작하고, Researcher의 산출물에 필요한 초기 인터페이스 정의(Phase 1 데이터 구조)를 설계 단계에서 반영할 수 있도록 준비하라. → 산출물 sessions/2026-05-20T17-55/developer.md
+- [2026-05-21] Researcher가 확정할 SOP 기반 PostgreSQL 데이터베이스 스키마 설계 착수 준비를 즉시 시작하고, Phase 1 데이터 구조 인터페이스 정의를 반영할 수 있도록 초기 설계 작업을 준비하십시오. → 산출물 sessions/2026-05-21T09-55/developer.md
+- [2026-05-21] 확정된 SOP 기반의 PostgreSQL DB 스키마 설계 착수를 즉시 시작하고, Researcher가 제공할 초기 데이터 추출 기준을 반영하여 Phase 1 구조를 설계하십시오. → 산출물 sessions/2026-05-21T13-25/developer.md
+- [2026-05-21] Researcher가 준비한 Phase 1 Schema(v1.0)을 최종 검토하고, 이를 기반으로 PostgreSQL 데이터베이스 스키마 설계를 즉시 착수하십시오. → 산출물 sessions/2026-05-21T14-10/developer.md
+- [2026-05-21] Researcher가 확정한 최종 데이터 추출 기준(Schema Definition v1.0)을 반영하여 PostgreSQL DB 스키마 설계 착수를 즉시 시작하도록 지시하십시오. → 산출물 sessions/2026-05-21T17-10/developer.md
+- [2026-05-21] Researcher가 확정한 최종 Schema Definition v1.0을 기반으로 PostgreSQL DB 스키마 설계 착수를 즉시 진행하십시오. → 산출물 sessions/2026-05-21T22-25/developer.md
+- [2026-05-21] 최종 승인된 Schema Definition v1.0을 기반으로 PostgreSQL DB 스키마 설계를 즉시 착수하도록 지시하십시오. → 산출물 sessions/2026-05-21T23-55/developer.md
+- [2026-05-22] Researcher가 확정한 SOP를 즉시 인계받아, DB 스키마 기반의 구체적인 개발 Task List를 작성하고 분배 계획을 수립하도록 지시받고, 이를 즉각적으로 실행하십시오. → 산출물 sessions/2026-05-22T05-25/developer.md
+- [2026-05-22] Researcher가 확정한 최종 SOP 기반의 개발 Task List를 즉시 분배받고, 해당 Task에 대한 실제 개발 착수를 시작하십시오. → 산출물 sessions/2026-05-22T07-25/developer.md
+- [2026-05-22] Researcher가 준비할 접근 경로 계획을 참고하여, 데이터 추출 모듈의 초기 설계 초안 및 AMS 가중치 적용 로직 구체화 계획을 수립하십시오. → 산출물 sessions/2026-05-22T12-25/developer.md
+- [2026-05-22] Researcher가 확정할 최종 Task List의 초안을 검토하여, 데이터 추출 모듈 핵심 모듈 A 구현의 구체적인 분배 계획을 수립할 준비를 시작하십시오. → 산출물 sessions/2026-05-22T23-40/developer.md
+- [2026-05-23] Researcher가 확정할 Task List를 기반으로 데이터 추출 모듈 핵심 모듈 A의 구체적인 구현 분배 계획을 수립하여 보고하라. → 산출물 sessions/2026-05-23T03-40/developer.md
+- [2026-05-23] Researcher가 확정할 최종 Task List를 기반으로 데이터 추출 모듈 핵심 모듈 A의 구체적인 구현 분배 계획을 수립하고, Phase 1(A-1)인 Pydantic Model 및 접근 경로 맵 최종 확정 작업을 시작할 준비를 하십시오. → 산출물 sessions/2026-05-23T04-55/developer.md
+- [2026-05-23] Researcher가 확정할 최종 Task List를 기반으로, 데이터 추출 모듈 핵심 모듈 A의 구체적인 구현 분배 계획을 수립하십시오. (이전 로그 참조) → 산출물 sessions/2026-05-23T23-55/developer.md
+- [2026-05-24] 확정된 가이드라인 기반으로 PostgreSQL 데이터베이스 스키마 초안 설계를 즉시 시작하도록 지시받고, 개발 환경 준비를 완료하십시오. → 산출물 sessions/2026-05-24T00-55/developer.md
