@@ -767,6 +767,17 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-23T23-55/_report.md\n- 영숙: 최근 통합 스케줄, CEO 메모리 및 에이전트 활동 로그를 종합 검토하여 현재 가장 가치 있는 단일 작업 1개를 명확히 결정하고, 해당 작업을 \n- Researcher: 최우선 타겟 5개 기관별 접근 경로 및 인증 정보 확보를 위한 최종 Task List를 즉시 확정하고, Developer에게 인계할 수 있도록 \n- Developer: Researcher가 확정할 최종 Task List를 기반으로, 데이터 추출 모듈 핵심 모듈 A의 구체적인 구현 분배 계획을 수립하십시오. (이\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: 최근 통합 스케줄, CEO 메모리 및 에이전트 활동 로그를 종합 검토하여 현재 가장 가치 있는 단일 작업 1개를 명확히 결정하고, 해당 작업을 수행할 에이전트(1~2명)를 지정하여 실행 계획을 수립하십시오. (이전 로그 참조",
       "completedAt": "2026-05-23T23:57:24.011Z"
+    },
+    {
+      "id": "20260601075020-endb",
+      "title": "YouTube API 키 발급 방법 안내",
+      "description": "youtube api키가 필요하다고 하는데 어떻게 알아낼 수 있어요?",
+      "owner": "agent",
+      "createdAt": "2026-06-01T07:50:20.733Z",
+      "status": "in_progress",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }

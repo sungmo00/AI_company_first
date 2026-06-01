@@ -63,3 +63,5 @@
 {"role":"user","text":"/google calendar 자동 일정 연결","ts":1779321791550}
 {"role":"assistant","text":"✅ Google Calendar 자동 일정 연결을 활성화했습니다. 이제부터 텔레그램으로 요청하시는 일정을 자동으로 등록할게요.","ts":1779321798276}
 {"role":"user","text":"오늘 10시 비기능체크리스트 관련 DA회의 17층 일정 등록해 주세요","ts":1779321847854}
+{"role":"user","text":"youtube api키가 필요하다고 하는데 어떻게 알아낼 수 있어요?","ts":1780300216460}
+{"role":"assistant","text":"API 키 발급 방법은 사용하시는 서비스(예: Google Cloud Platform)에 따라 다릅니다. 어떤 종류의 YouTube API를 사용하시는지 알려주시면 더 정확한 안내를 드릴 수 있습니다.","ts":1780300221980}
