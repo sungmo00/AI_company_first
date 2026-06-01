@@ -1458,3 +1458,4 @@ _Secretary 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-31] 최종 Task List 파일(`/Users/jangsungmo/AI_company_first/_company/sessions/2026-05-31T21-00/final_task_list_and_handoff.md`)을 검토하고, Developer(DB 스키마 설계)와 Researcher(SOP 구체화 및 접근 경로 확보)에게 인계할 명확한 지시사항을 최종 확정하여 준비하십시오. → 산출물 sessions/2026-05-31T23-15/secretary.md
 - [2026-06-01] Researcher와 Developer 간의 T1/T2 진행 상황 보고 채널(#db-research-sync) 설정 완료를 확인하고, 해당 채널이 정상적으로 작동하는지 즉시 점검한 후, 진행 상황 보고 체계를 공식화하십시오. → 산출물 sessions/2026-06-01T03-45/secretary.md
 - [2026-06-01] CEO의 개인 목표 및 최근 의사결정 로그를 검토하여, 현재 진행 중인 연구과제 조사 및 DB 설계 파이프라인의 다음 핵심 단일 작업 1개를 결정하고, 이를 기반으로 관련 에이전트에게 작업을 분배하도록 제안하십시오. → 산출물 sessions/2026-06-01T04-00/secretary.md
+- [2026-06-01] Developer와 Researcher 간의 DB 스키마 및 SOP 분배 계획 확정 진행 상황을 모니터링하고, 진행 상황 보고 채널(#db-research-sync)에 관련 업데이트를 즉시 공유하도록 조치하십시오. → 산출물 sessions/2026-06-01T04-15/secretary.md
