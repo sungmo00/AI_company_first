@@ -1,57 +1,46 @@
-# 💼 현빈 — 최근의 'Relevance Score Model v1.0' 가중치 초안 검토 및 수익화 연관성 검증을 위한 템플릿 준비를 완료하고, Researcher에게 최종 가중치 산출을 요청하도록 지시하라.
+# 💼 현빈 — Researcher가 산출할 가중치 초안을 검토하여, '매출화 관점의 우선순위(ROI 연동)' 측면에서 모델이 비즈니스 목표에 부합하는지 검증할 초안 템플릿을 준비하라.
 
 💼 현빈: 작업 시작합니다.
 
-현재 가장 가치 있는 단일 작업은 **'Relevance Score Model v1.0'의 최종 가중치 확정 및 수익화 연관성 검증 템플릿 준비**입니다. 이는 장기 목표인 '수익화 모델 1개 가설 검증 → 매출화'의 첫 단추이며, Researcher 에이전트의 최종 산출물을 유도하여 다음 단계(매출화)로의 전환을 가속화해야 합니다.
+CEO의 지시사항을 명확히 인지했습니다. Researcher가 산출한 Relevance Score Model v1.0 핵심 가중치 초안을 단순 기술적 적합성에서 벗어나, **'매출화 관점의 우선순위(ROI 연동)'** 측면에서 비즈니스 목표에 부합하는지 검증할 수 있는 **'수익화 연관성 검증 템플릿'**을 준비하겠습니다.
+
+이는 장기 목표인 '수익화 모델 1개 가설 검증 → 매출화'로 직접 연결되는 핵심적인 비즈니스 의사결정 단계입니다.
 
 **작업 분배 계획:**
-1. **핵심 작업 (Business 에이전트):** Relevance Score Model v1.0 가중치 초안 검토 및 수익화 연관성 검증을 위한 템플릿 준비 (현재 수행 중).
-2. **실행 작업 (Researcher 에이전트):** 검토된 가중치 초안을 기반으로 최종 Relevance Score Model 산출 및 확정.
+1.  **핵심 작업 (Business 에이전트):** ROI 연동 관점의 수익화 검증 템플릿 설계 (현재 수행 중).
+2.  **실행 작업 (Researcher 에이전트):** 설계된 템플릿의 구조적 완성도 검토 및 필요한 데이터 입력 포맷 정의.
 
 **실행 계획:**
-현재 Business 에이전트가 템플릿을 준비했으므로, 이 산출물을 Researcher에게 명확하게 전달하고 최종 확정을 요청하는 지시를 준비하겠습니다.
+현재 Business 에이전트가 수익화 검증 템플릿을 준비해야 하므로, 이 산출물을 Researcher에게 명확하게 전달하고 최종 확정을 요청하는 지시를 준비하겠습니다.
 
-<create_file path="/Users/jangsungmo/AI_company_first/_company/planning/relevance_score_final_request.md">
-# Relevance Score Model v1.0 최종 확정 요청 (Researcher 대상)
+<create_file path="/Users/jangsungmo/AI_company_first/_company/planning/roi_validation_template.md">
+# ROI 연동 관점의 Relevance Score 검증 템플릿 (Business/Researcher 협업용)
 
 **목표:**
-현재 검토된 Relevance Score Model v1.0 가중치 초안을 기반으로, 타겟 기관별 연구과제 제안의 성공 가능성을 극대화할 수 있는 **최종 Relevance Score 가중치**를 산출하고 확정하는 것입니다. 이 가중치는 제안서의 품질과 채택률에 직접적인 영향을 미치므로, 가장 신중하고 데이터 기반으로 결정되어야 합니다.
+Relevance Score Model v1.0의 각 가중치 항목이 **'연구과제 채택률'**뿐만 아니라, 궁극적인 **'수익화 가능성(ROI)'**에 어떻게 기여하는지를 정량적으로 검증하고, 비즈니스 목표와의 정렬(Alignment)을 확인하는 것입니다.
 
 **배경:**
-*   ALTIT KOREA의 강점(기술/데이터)과 타겟 기관의 요구사항을 매핑하는 프레임워크를 구축했습니다.
-*   초안 가중치에 대한 수익화 연관성 검증 템플릿을 준비했습니다.
+*   단순히 '연구 과제 채택'을 넘어, 제안서의 질이 **실질적인 연구비 확보(매출화)**로 이어지도록 모델을 설계해야 합니다.
+*   W1, W2 등 각 가중치 항목이 비즈니스 성과 지표(KPI)와 어떻게 연결되는지 정의합니다.
 
-**요청 사항 (Researcher 에이전트):**
-1.  **가중치 재조정:** 현재 준비된 초안 가중치(첨부 파일 참조)를 기반으로, '정부/공공기관 연구과제 채택 확률'을 최대화하는 방향으로 **최종 가중치**를 산출해 주십시오.
-2.  **수익화 연관성 검증:** 각 가중치 항목(예: 기술적 우위, 기관 맞춤성, 데이터 신뢰도 등)이 실제 제안서의 **'채택 가능성(Probability of Selection)'**에 미치는 영향을 정량적으로 평가하고, 이를 뒷받침하는 근거를 명시해 주십시오.
-3.  **결과 산출:** 최종 확정된 **'Relevance Score 가중치 테이블 (v1.0 Final)'**과 해당 가중치가 의미하는 **'수익화 전략적 근거 (Justification)'**를 산출해 주십시오.
+**요청 사항 (Researcher 및 Business 에이전트 협업):**
+1.  **ROI 매핑 프레임워크 설계:** 각 Relevance Score 항목(W1, W2 등)이 최종적으로 **'연구비 확보 금액 (Expected Funding Value)'**에 미치는 기여도를 정의하는 매핑 테이블을 설계하십시오.
+    *   **Column 1 (Score Factor):** W1, W2 등 가중치 항목.
+    *   **Column 2 (KPI Linkage):** 이 항목이 직접적으로 영향을 미치는 연구비 확보 지표 (예: 제안서 평가 점수, 심사위원 피드백 등).
+    *   **Column 3 (ROI Driver):** 해당 항목이 높아질 때, **수익화에 기여하는 구체적인 메커니즘** (예: 기술 우위성 $\rightarrow$ 심사위원의 '혁신성' 평가 점수 상승 $\rightarrow$ 높은 평가 점수 $\rightarrow$ 더 높은 연구비 수주 확률).
+    *   **Column 4 (Weight Impact on ROI):** 해당 항목의 가중치(Wx)가 이 메커니즘에 미치는 민감도 계수.
+
+2.  **'최소 수익화 기준(Minimum Viable ROI)' 정의:**
+    *   위 매핑을 기반으로, **'최소한의 성공적인 연구과제 채택'**을 달성하기 위해 각 가중치 항목에서 **최소한 요구되어야 할 점수 기준선(Threshold)**을 설정하십시오. (예: W1 항목은 최소 0.7 이상 필요)
+
+3.  **검증 시나리오 준비:**
+    *   설정된 Threshold를 충족시키지 못했을 경우, **'수익화 실패(Failure Scenario)'**로 간주되는 구체적인 시나리오 3가지를 작성하십시오. (예: W1 점수 미달 $\rightarrow$ 기관이 '기술적 리스크'로 판단하고 탈락)
 
 **필수 첨부 자료:**
 *   [첨부 파일]: sessions/2026-05-05T08-21/business.md (Relevance 점수 모델링 기준 초안)
-*   [첨부 파일]: sessions/2026-06-01T08-30/business.md (수익화 연관성 검증 템플릿 초안)
 
-**기한:**
-금주 내 확정 요청. 이 가중치의 최종 승인이 다음 단계인 '리소스 배분 계획(Secretary 에이전트 협업)'의 확정으로 이어집니다.
-</create_file>
+**산출물 형식:**
+*   구조화된 마크다운 테이블과 명확한 시나리오 목록으로 구성되어야 합니다.
 
-**후속 조치:**
-Researcher 에이전트에게 해당 파일과 요청 사항을 전달하도록 지시합니다.
-
-<run_command>echo "Researcher 에이전트에게 /Users/jangsungmo/AI_company_first/_company/planning/relevance_score_final_request.md 파일을 전달하고 최종 가중치 산출을 요청합니다."</run_command>
-
-📊 평가: 완료 — 핵심 목표인 가중치 검토 및 다음 단계 실행을 위한 구체적인 산출물(요청서)이 생성되었습니다.
-📝 다음 단계: Researcher 에이전트의 응답을 대기 — Researcher가 최종 가중치를 산출할 때까지 대기
-
----
-## 🛠️ 도구 실행 결과 (시스템 자동 실행)
-
-### 🔧 실행: `echo "Researcher 에이전트에게 /Users/jangsungmo/AI_company_first/_company/planning/relevance_score_final_r`
-```
-Researcher 에이전트에게 /Users/jangsungmo/AI_company_first/_company/planning/relevance_score_final_request.md 파일을 전달하고 최종 가중치 산출을 요청합니다.
-```
-_✅_
-
----
-## 📁 파일 액션 결과
-
-✅ 생성: ~/AI_company_first/_company/planning/relevance_score_final_request.md
+📊 평가: 진행중 — 비즈니스 목표(ROI)와 모델 구조를 연결하는 핵심 프레임워크 설계 단계에 있음.
+📝 다음 단계: ROI 매핑 프레임워크 초안을 Researcher에게 전달하고, 가중치 재조정 작업(Step 1)을 즉시 시작하도록 지시할 준비를 합니다.
