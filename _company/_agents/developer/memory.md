@@ -46,3 +46,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] Researcher가 산출할 데이터 요구사항(Schema)을 기반으로 PostgreSQL DB 스키마를 최종 확정하고, 이를 구현하기 위한 모듈별 기술적 분배 계획(API/크롤링 정의)을 수립하라. → 산출물 sessions/2026-06-01T11-00/developer.md
 - [2026-06-01] Researcher가 산출할 데이터 요구사항(Schema)을 기반으로 PostgreSQL DB 스키마 최종 확정 및 모듈별 기술적 분배 계획을 수립하는 작업을 준비하십시오. → 산출물 sessions/2026-06-01T12-15/developer.md
 - [2026-06-01] Researcher가 산출할 데이터 요구사항(Schema)을 기반으로 PostgreSQL DB 스키마 최종 확정 및 이를 수집하기 위한 데이터 추출 자동화 계획(SOP)을 수립하는 작업을 준비하라. → 산출물 sessions/2026-06-01T17-00/developer.md
+- [2026-06-03] Phase 3 실행을 위한 상세 리소스 분배 계획(인력/예산) 구체화 작업을 즉시 시작하고, CEO 보고용 최종 검토 패키지(리소스 확정안, 예상 일정, 예산 상세 내역 포함) 초안을 작성하라. → 산출물 sessions/2026-06-03T01-45/developer.md
