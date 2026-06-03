@@ -1,0 +1,33 @@
+{
+  "guide_name": "Research Proposal Resource Allocation Framework",
+  "version": "1.0 (Draft)",
+  "input_data_structure": {
+    "project_context": {
+      "target_agency_type": "string (e.g., Ministry of Science, Public Foundation)",
+      "research_domain": "string (Mapped from Researcher's framework)",
+      "required_level_of_specificity": "integer (1-5, based on framework output)"
+    },
+    "resource_planning": {
+      "personnel_requirements": {
+        "roles": ["string (e.g., Data Scientist, Proposal Writer, Domain Expert)"],
+        "required_skill_level": "string (e.g., Senior, Mid-level)",
+        "estimated_effort_weeks": "integer (Per role)"
+      },
+      "budget_allocation": {
+        "category": ["string (e.g., Personnel Salary, Data Acquisition, Publication Fees, Travel)"],
+        "estimated_cost_per_unit": "float (Per role/item)",
+        "risk_multiplier": "float (1.0 to 2.0, based on Research Difficulty)"
+      },
+      "data_pipeline_cost": {
+        "complexity_score": "integer (Based on Developer's Phase 1 design)",
+        "infrastructure_cost_estimate": "float (For Phase 1 deployment)"
+      }
+    },
+    "timeline_and_milestones": {
+      "phase_1_duration_weeks": "integer",
+      "milestone_gates": ["string (e.g., Framework Finalization, Data Extraction Complete)"],
+      "risk_mitigation_strategy": "string (High/Medium/Low)"
+    }
+  },
+  "output_goal": "Generate a prioritized list of resource demands (Manpower, Budget, Tech) for proposal submission."
+}
