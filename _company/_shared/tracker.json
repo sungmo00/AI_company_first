@@ -781,6 +781,81 @@
       "sessionDir": "2026-06-01T08-00",
       "evidence": "완료: sessions/2026-06-01T08-00/_report.md\n- 현빈: 회사 목표(정부 및 공공기관 연구과제 조사)와 현재 진행 상황(DB 스키마, 기술 구현 분배 계획 등)을 종합적으로 검토하고, 현재 시점에서 가\n\nCEO 종합 요점: 💼 현빈: 작업 시작합니다.\n\n현재 상황은 '정부 및 공공기관의 연구과제 조사'라는 회사 공동 목표를 달성하기 위해, 이미 진행된 기술적 기반 작업(DB 스키마 설계, 구현 분배 계획 등)을 바탕으로 **가장 가치 있는 단일 작업 1개**를 결정하고, 이를 실행할 최적의 에이전트 조합을 선정하여 초기 작업 분배 계획을 수립하는 것입니다.\n\n**분석 기반:",
       "completedAt": "2026-06-01T08:01:23.260Z"
+    },
+    {
+      "id": "20260603174633-4sz0",
+      "title": "**Endpoint/URL 유효성:** 정의된 모든 추출 경로(Phase 1 설계 기반)가 현재 운영 환경에서 정상 응답을 반환하는지 확인.",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-03T17:46:33.922Z",
+      "status": "pending",
+      "sessionDir": "2026-06-03T17-45",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260603174633-bygt",
+      "title": "**Rate Limiting 대응:** 예상되는 요청 빈도(RPS) 대비 시스템의 Rate Limit 정책을 준수하며 작동하는지 확인. (테스트 환경에서 부하 테스트 수행 필요)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-03T17:46:33.939Z",
+      "status": "pending",
+      "sessionDir": "2026-06-03T17-45",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260603174633-9f88",
+      "title": "**비정상 응답 처리:** 4xx/5xx 에러 발생 시, 시스템이 정의된 재시도 로직(Retry Logic)을 정확히 수행하고 오류를 기록하는지 확인.",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-03T17:46:33.954Z",
+      "status": "pending",
+      "sessionDir": "2026-06-03T17-45",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260603174633-3pjy",
+      "title": "**컬럼 매핑 정확성 (Completeness):** 추출된 데이터셋의 컬럼 개수와 타입(Data Type)이 Schema Definition v1.0과 1:1로 일치하는지 검증. (특히, Researcher가 정의한 필수 컬럼의 누락 여부 집중 확인)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-03T17:46:33.974Z",
+      "status": "pending",
+      "sessionDir": "2026-06-03T17-45",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260603174634-lh6n",
+      "title": "**데이터 타입 일관성:** 추출된 데이터의 각 컬럼이 DB 스키마(PostgreSQL)에서 요구하는 타입(예: Date, Integer, String 길이 제한)을 준수하는지 확인.",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-03T17:46:34.046Z",
+      "status": "pending",
+      "sessionDir": "2026-06-03T17-45",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
