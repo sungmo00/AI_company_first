@@ -55,3 +55,5 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-03] Researcher가 제공한 Schema Definition v1.0을 기반으로 PostgreSQL DB 스키마 V1의 최종 확정 작업을 즉시 진행하고, 데이터 추출 자동화 로드맵(T2)의 Phase별 기술 설계 및 인터페이스 정의를 구체화하십시오. → 산출물 sessions/2026-06-03T11-30/developer.md
 - [2026-06-03] Researcher가 확정한 데이터 추출 워크플로우를 기반으로, PostgreSQL DB 스키마 V1을 활용한 데이터 추출 자동화 로드맵(T2)의 Phase별 기술 설계 및 인터페이스 정의를 구체적으로 수립하라. → 산출물 sessions/2026-06-03T12-45/developer.md
 - [2026-06-03] 최종 데이터 파이프라인의 배포 준비 및 검증을 위한 'Phase 1 기술 설계 및 인터페이스 정의' 작업을 즉시 착수하고, Researcher가 확정한 SOP에 맞춘 기술적 구현 로드맵을 구체화하라. → 산출물 sessions/2026-06-03T13-15/developer.md
+- [2026-06-03] PostgreSQL DB 스키마 V1 최종 확정 및 Phase 1 기술 설계 착수를 즉시 진행하고, 데이터 추출 자동화 로드맵(T2)의 Phase별 기술 설계 및 인터페이스 정의를 착수 지시합니다. → 산출물 sessions/2026-06-03T16-30/developer.md
+- [2026-06-03] 데이터 파이프라인의 배포 준비 및 검증(QA) 계획 수립을 위한 기술적 요구사항 명세를 초안 작성하고, Researcher가 확정한 SOP에 맞춘 검증 항목을 정의합니다. → 산출물 sessions/2026-06-03T16-30/developer.md
