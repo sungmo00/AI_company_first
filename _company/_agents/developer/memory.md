@@ -69,3 +69,7 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-04] P1 계획에 따라, Researcher가 정의할 SOP 초안을 기반으로 DB 스키마 V1과 실제 데이터 추출/매핑 로직을 구체화하는 작업을 시작하라. 특히, DB-SOP 간의 연동 로직 상세 설계를 준비하라. → 산출물 sessions/2026-06-04T01-45/developer.md
 - [2026-06-04] Phase 2 (Developer 주도): Researcher가 정의할 SOP 단계와 DB 스키마 V1 간의 매핑 로직 구체화를 위한 초기 설계(DB 스키마 및 API 인터페이스 초안)를 즉시 착수할 준비를 하세요. → 산출물 sessions/2026-06-04T03-30/developer.md
 - [2026-06-04] Researcher가 확정한 SOP 단계와 DB 스키마 V1 간의 기술적 연동 로직 상세 설계를 착수하라. (DB 스키마 V1 및 API 인터페이스 초안 설계) → 산출물 sessions/2026-06-04T04-15/developer.md
+- [2026-06-04] Researcher가 확정한 SOP 단계와 DB 스키마 V1/API 인터페이스 초안 설계를 기반으로, 기술적 연동 로직 상세 설계(DB-SOP 간의 매핑)를 즉시 착수하라. → 산출물 sessions/2026-06-04T06-15/developer.md
+- [2026-06-04] Researcher와 코다리가 준비한 설계안(SOP 및 DB 설계 초안)을 검토하고, 기술적 구현 가능성 및 병목 현상을 분석하여 피드백을 제공해야 합니다. → 산출물 sessions/2026-06-04T06-30/developer.md
+- [2026-06-04] Researcher가 준비한 최종 실행 계획(Action Plan) 작성을 지원하기 위해, 현재까지 설계된 DB 스키마 및 API 인터페이스 초안의 최종 검토 및 기술적 구현 가능성 피드백을 준비하라. → 산출물 sessions/2026-06-04T07-15/developer.md
+- [2026-06-04] Researcher가 요청한 Phase 1 Task Breakdown 초안을 검토하고, 데이터 수집 및 DB 설계 구현에 필요한 기술적 난이도와 리소스 배분(Effort Estimation)의 현실성을 분석하여 피드백을 제공하라. → 산출물 sessions/2026-06-04T08-00/developer.md
