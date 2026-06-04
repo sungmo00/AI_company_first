@@ -1535,3 +1535,5 @@ _Secretary 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-04] CEO의 다음 액션(Top 3)을 정리하고, Researcher/Developer 에이전트들에게 구체적인 분배 및 마감일을 설정하여 텔레그램 보고서를 작성하라. → 산출물 sessions/2026-06-04T02-15/secretary.md
 - [2026-06-04] 현재 시점의 회사 목표, 각 에이전트(youtube, instagram, designer, developer, business, writer, researcher)의 개인 목표(_agents/{id}/goal.md), 최근 의사결정 및 메모리를 종합적으로 검토하고, 가장 시급하고 가치 있는 단일 작업 1개를 선정하여 해당 작업을 수행할 에이전트(최대 2명)를 결정하고, 작업 분배 계획을 수립하여 보고합니다. → 산출물 sessions/2026-06-04T02-45/secretary.md
 - [2026-06-04] 현재 시점의 회사 목표, 각 에이전트(youtube, instagram, designer, developer, business, writer, researcher)의 개인 목표(_agents/{id}/goal.md), 최근 의사결정 및 메모리를 종합 검토하여, 현재 가장 가치 있는 단일 작업 1개를 결정하고 해당 작업을 수행할 에이전트(최대 2명)를 지정하여 작업 분배 계획을 수립하십시오. → 산출물 sessions/2026-06-04T03-00/secretary.md
+- [2026-06-04] 현재 진행 중인 '정부 및 공공기관 연구과제 조사 프로세스'의 전체 마일스톤(Phase 1~4)을 요약하고, Researcher와 Developer에게 각자의 초기 산출물 제작을 즉시 지시하는 실행 계획을 작성하여 텔레그램으로 보고하세요. → 산출물 sessions/2026-06-04T03-30/secretary.md
+- [2026-06-04] 최근 활동 로그와 CEO 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 수행할 에이전트(최대 2명)를 지정하여 분배 계획을 수립하십시오. → 산출물 sessions/2026-06-04T03-45/secretary.md
