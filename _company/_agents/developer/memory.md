@@ -64,3 +64,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-03] Researcher가 확보한 '타겟 기관별 접근 경로' 검증 리포트(또는 관련 데이터)를 제공하고, 이를 기반으로 DB 스키마 V1의 최종 기술 요구사항 명세 초안(Mapping Framework 연동 방안 포함)을 즉시 구체화하라. Researcher는 이 명세 초안을 검토하여, 실제 데이터 추출 시 필요한 '필수 매핑 필드(Mandatory Fields)'를 명확히 정의하도록 지원하라. → 자격증명 부족으로 차단됨
 - [2026-06-03] Researcher가 제공할 리포트가 준비될 때까지 대기하되, DB 스키마 V1의 최종 요구사항 명세 초안 설계 준비를 위해 Researcher와 협업할 수 있는 초기 기술 프레임워크 구상에 착수하라. → 산출물 sessions/2026-06-03T22-00/developer.md
 - [2026-06-03] Researcher가 정의한 워크플로우에 맞춰, PostgreSQL DB 스키마 V1과 데이터 추출 모듈의 기술적 요구사항 명세(Mapping Framework 연동 방안 포함)를 최종 검토하고 확정하라. → 산출물 sessions/2026-06-03T23-15/developer.md
+- [2026-06-04] PostgreSQL DB 스키마 V1 매핑 초안을 준비하도록 지시하고, Researcher가 정의한 SOP 단계와 DB 스키마 간의 매핑 로직 구체화 작업을 시작하라. → 산출물 sessions/2026-06-04T00-30/developer.md
