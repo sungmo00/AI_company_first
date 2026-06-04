@@ -1530,3 +1530,8 @@ _Secretary 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-04] Researcher와 Developer에게 'SOP 세부 워크플로우 초안' 및 'DB 스키마 V1 매핑 초안' 요청을 공식적으로 전달하고, 각 에이전트의 진행 상황 모니터링 계획을 수립하여 보고하도록 지시한다. → 산출물 sessions/2026-06-04T00-15/secretary.md
 - [2026-06-04] 현재 시점(2026-06-04)의 회사 목표, 에이전트 개인 목표, 최근 의사결정 및 메모리를 종합적으로 검토하여, 다음으로 실행해야 할 가장 가치 있는 단일 작업 1개를 결정하고 해당 작업을 담당 에이전트에게 분배하도록 정리하여 보고합니다. → 산출물 sessions/2026-06-04T01-00/secretary.md
 - [2026-06-04] 현재 진행 중인 연구과제 조사 프로세스(SOP, DB 스키마 연동)의 다음 단계 실행 계획을 결정하고, 관련 에이전트들에게 작업을 분배할 수 있도록 작업 목록과 우선순위를 정리하여 보고하라. → 산출물 sessions/2026-06-04T01-30/secretary.md
+- [2026-06-04] CEO의 지시사항에 따라, Researcher와 Developer가 준비한 인력/예산 컨틴전시 계획 초안을 취합하고 CEO 보고용 구조화 작업을 준비하라. → 산출물 sessions/2026-06-04T01-45/secretary.md
+- [2026-06-04] CEO의 다음 액션(Top 3)을 정리하고, Researcher/Developer/영숙 에이전트들에게 해당 작업의 구체적인 분배 및 마감일을 설정하여 텔레그램 보고서를 작성하라. → 산출물 sessions/2026-06-04T02-00/secretary.md
+- [2026-06-04] CEO의 다음 액션(Top 3)을 정리하고, Researcher/Developer 에이전트들에게 구체적인 분배 및 마감일을 설정하여 텔레그램 보고서를 작성하라. → 산출물 sessions/2026-06-04T02-15/secretary.md
+- [2026-06-04] 현재 시점의 회사 목표, 각 에이전트(youtube, instagram, designer, developer, business, writer, researcher)의 개인 목표(_agents/{id}/goal.md), 최근 의사결정 및 메모리를 종합적으로 검토하고, 가장 시급하고 가치 있는 단일 작업 1개를 선정하여 해당 작업을 수행할 에이전트(최대 2명)를 결정하고, 작업 분배 계획을 수립하여 보고합니다. → 산출물 sessions/2026-06-04T02-45/secretary.md
+- [2026-06-04] 현재 시점의 회사 목표, 각 에이전트(youtube, instagram, designer, developer, business, writer, researcher)의 개인 목표(_agents/{id}/goal.md), 최근 의사결정 및 메모리를 종합 검토하여, 현재 가장 가치 있는 단일 작업 1개를 결정하고 해당 작업을 수행할 에이전트(최대 2명)를 지정하여 작업 분배 계획을 수립하십시오. → 산출물 sessions/2026-06-04T03-00/secretary.md

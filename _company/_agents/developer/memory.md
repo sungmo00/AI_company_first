@@ -66,3 +66,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-03] Researcher가 정의한 워크플로우에 맞춰, PostgreSQL DB 스키마 V1과 데이터 추출 모듈의 기술적 요구사항 명세(Mapping Framework 연동 방안 포함)를 최종 검토하고 확정하라. → 산출물 sessions/2026-06-03T23-15/developer.md
 - [2026-06-04] PostgreSQL DB 스키마 V1 매핑 초안을 준비하도록 지시하고, Researcher가 정의한 SOP 단계와 DB 스키마 간의 매핑 로직 구체화 작업을 시작하라. → 산출물 sessions/2026-06-04T00-30/developer.md
 - [2026-06-04] DB 스키마 V1 매핑 초안을 준비하고, Researcher가 정의한 SOP 단계와 DB 스키마 간의 매핑 로직 구체화 작업을 시작하십시오. 특히, 데이터 수집부터 최종 매핑까지의 기술적 연동 방안을 포함하여 초안을 설계해야 합니다. → 산출물 sessions/2026-06-04T01-15/developer.md
+- [2026-06-04] P1 계획에 따라, Researcher가 정의할 SOP 초안을 기반으로 DB 스키마 V1과 실제 데이터 추출/매핑 로직을 구체화하는 작업을 시작하라. 특히, DB-SOP 간의 연동 로직 상세 설계를 준비하라. → 산출물 sessions/2026-06-04T01-45/developer.md
