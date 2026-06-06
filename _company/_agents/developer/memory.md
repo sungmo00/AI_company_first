@@ -74,3 +74,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-04] Researcher가 준비한 최종 실행 계획(Action Plan) 작성을 지원하기 위해, 현재까지 설계된 DB 스키마 및 API 인터페이스 초안의 최종 검토 및 기술적 구현 가능성 피드백을 준비하라. → 산출물 sessions/2026-06-04T07-15/developer.md
 - [2026-06-04] Researcher가 요청한 Phase 1 Task Breakdown 초안을 검토하고, 데이터 수집 및 DB 설계 구현에 필요한 기술적 난이도와 리소스 배분(Effort Estimation)의 현실성을 분석하여 피드백을 제공하라. → 산출물 sessions/2026-06-04T08-00/developer.md
 - [2026-06-04] Researcher가 구성할 Action Plan의 초안을 기반으로, DB/API 초안을 활용하여 기술적 구현 가능성 및 리소스 배분(Effort Estimation) 분석 체크리스트를 즉시 준비하라. → 산출물 sessions/2026-06-04T09-30/developer.md
+- [2026-06-04] Researcher가 작성할 Action Plan 초안을 검토할 수 있도록, 현재까지 설계된 DB/API 초안과 리소스 배분 분석 체크리스트를 '최종 검토 모드'로 준비하라. → 산출물 sessions/2026-06-04T11-00/developer.md
