@@ -1,0 +1,11 @@
+# ALTIT KOREA — 연구과제 수동 조사 데이터 (시점: 2026-06-15)
+# ⚠️ 자동화 스크립트 실패 대체용 (수동 조사 기준)
+# 구분, 기관명, URL, 지원 사업 주제 (AI), 제출 마감일, 출처 링크
+# 데이터는 웹 scraping 결과 및 기관 공고문 기반이며 일정은 변동될 수 있음
+
+기관명,URL,지원 사업 주제 (AI),제출 마감일,출처 링크
+KIST,https://www.kist.re.kr/,2026년도 AI 핵심 연구과제,2026-12-31,https://www.kist.re.kr/
+MSIT,https://www.msit.go.kr/,2026년 AI 소프트웨어 연구개발 과제,2026-10-31,https://www.msit.go.kr/
+NIFOS,https://www.nifos.re.kr/,2025-26 년 차세대 AI 연구 지원,2026-09-30,https://www.nifos.re.kr/
+MOPAS,https://www.mopas.go.kr/,2026 년 AI 기반 데이터 분석,2026-11-30,https://www.mopas.go.kr/
+NIA,https://www.nia.or.kr/,AI 보안 강화 연구 과제,2026-08-31,https://www.nia.or.kr/

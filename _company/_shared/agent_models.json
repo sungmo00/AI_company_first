@@ -1,12 +1,12 @@
 {
-  "ceo": "gemma-4-e2b-it-optiq",
+  "ceo": "qwen3.5-9b-mlx",
   "youtube": "qwen3.5-9b-mlx",
-  "instagram": "gemma-4-e2b-it-optiq",
-  "designer": "gemma-4-e2b-it-optiq",
+  "instagram": "qwen3.5-9b-mlx",
+  "designer": "qwen3.5-9b-mlx",
   "developer": "qwen3.5-9b-mlx",
   "business": "qwen3.5-9b-mlx",
   "secretary": "qwen3.5-9b-mlx",
-  "editor": "gemma-4-e2b-it-optiq",
+  "editor": "qwen3.5-9b-mlx",
   "writer": "qwen3.5-9b-mlx",
   "researcher": "qwen3.5-9b-mlx"
 }
