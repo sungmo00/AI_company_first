@@ -81,3 +81,10 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-09] trend_sniper.py 에러 (exit 1) 원인 분석 및 수정. API 키 설정, LLM 연결 안정화 확인 후 정상 작동(exit 0) 검증 완료할 때까지 반복 실행하며, 성공 시 Researcher 에게 즉시 통보하세요. → 산출물 sessions/2026-06-09T18-40/developer.md
 - [2026-06-09] LM Studio 메모리 사용량 확인 후, 현재 실행 중인 모델 용량이 적정하지 않으면 즉시 작은 모델로 변경하여 리소스 확보한다. Ollama 서버 실행 상태를 점검하고, 예외 발생 시 자동 재시작 시나리오를 확인한다. 작업 완료 후 'developer' 채널에 정상 작동 여부보고서를 전송한다. → 산출물 sessions/2026-06-09T21-10/developer.md
 - [2026-06-09] `trend_sniper.py` 에러 로그 (exit 1) 를 상세 분석하여 API 키 설정, LLM 연결 안정화 여부 또는 코드 로직 오류 원인을 규명합니다. 수정된 코드를 단독 실행하여 정상 작동 (exit 0) 여부를 검증하며, 성공 시 Researcher 에게 자동 데이터 수집 재시작 지시를 즉시 전달합니다. → 산출물 sessions/2026-06-09T21-40/developer.md
+- [2026-06-09] trend_sniper.py 에러 (exit 1) 원인을 분석하고, LLM 연결 안정화 및 메모리 최적화를 수행하여 자동 스크래핑 정상화한다. 실행 후 Researcher 에게 데이터 수집 재개 여부를 즉시 보고해야 한다. → 산출물 sessions/2026-06-09T22-40/developer.md
+- [2026-06-10] trend_sniper.py 에러 로그(exit 1) 상세 분석 후 수정. API 키 설정, LLM 연결 안정화, 코드 로직 오류 원인 규명. 수정 완료 후 Researcher 에게 자동 수집 재시작 지시 → 산출물 sessions/2026-06-10T01-10/developer.md
+- [2026-06-10] [긴급 수정] `trend_sniper.py` 에러 (exit 1) 원인 규명 및 해결: 1. `requests` 모듈 설치 체크, 2. API 키 환경 변수 연결 확인 및 `.env` 파일 생성, 3. 수정된 스크립트 즉시 실행하여 정상 작동 (exit 0) 여부 검증, 4. 성공 시 Researcher 에게 '데이터 수집 재시작' 지시. → 산출물 sessions/2026-06-10T02-10/developer.md
+- [2026-06-10] trend_sniper.py 에러 (exit 1) 원인을 분석하고, LLM 연결 안정화 및 코드 로직 수정을 통해 자동 스크래핑 정상화 가능성 확인 후 보고 → 산출물 sessions/2026-06-10T12-10/developer.md
+- [2026-06-10] trend_sniper.py 에러 (Exit 1) 원인 즉시 규명 및 해결: API 키 연결 안정성 (.env 파일 검증), 코드 로직 수정, 자동화 성공 시 Researcher 에게 '데이터 수집 재시작' 지시를 하되 실패하면 수동 조사 전환 결정 → 산출물 sessions/2026-06-10T13-25/developer.md
+- [2026-06-10] trend_sniper.py 에러 (exit 1) 원인 분석 및 해결, API 키 환경 변수 연결 확인 후 정상화 (exit 0), 이후 Researcher 에게 '데이터 수집 재시작' 지시 → 산출물 sessions/2026-06-10T14-40/developer.md
+- [2026-06-10] trend_sniper.py 에러 (Exit 1) 원인 즉시 규명 및 해결: .env 파일 API 키 연결 안정성 검증, LLM 연결 로직 점검 (타임아웃 600s), Exit 0 으로 정상 종료 보장 후 결과 기록 → 산출물 sessions/2026-06-10T19-40/developer.md
