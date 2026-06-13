@@ -33,7 +33,7 @@ def get_config():
     
     return {
         'api_key': os.getenv('GOOGLE_API_KEY'), # Masked in logs
-        'llm_host': os.getenv('LLM_HOST', 'http://localhost:12001'), # Ollama default or LM Studio
+        'llm_host': os.getenv('LLM_HOST', 'http://127.0.0.1:1234'), # Ollama default or LM Studio
         'timeout': int(os.getenv('LLM_TIMEOUT', 60)) # Default timeout for LLM call
     }
 
