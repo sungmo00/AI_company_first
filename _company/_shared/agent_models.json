@@ -1,12 +1,12 @@
 {
-  "ceo": "qwen3.5-9b-mlx",
-  "youtube": "qwen3.5-9b-mlx",
-  "instagram": "qwen3.5-9b-mlx",
-  "designer": "qwen3.5-9b-mlx",
-  "developer": "qwen3.5-9b-mlx",
-  "business": "qwen3.5-9b-mlx",
-  "secretary": "qwen3.5-9b-mlx",
-  "editor": "qwen3.5-9b-mlx",
-  "writer": "qwen3.5-9b-mlx",
-  "researcher": "qwen3.5-9b-mlx"
+  "ceo": "gemma-4-e4b-it",
+  "youtube": "gemma-4-e4b-it",
+  "instagram": "gemma-4-e4b-it",
+  "designer": "gemma-4-e4b-it",
+  "developer": "gemma-4-e4b-it",
+  "business": "gemma-4-e4b-it",
+  "secretary": "gemma-4-e4b-it",
+  "editor": "gemma-4-e4b-it",
+  "writer": "gemma-4-e4b-it",
+  "researcher": "gemma-4-e4b-it"
 }
