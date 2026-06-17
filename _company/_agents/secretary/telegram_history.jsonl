@@ -72,3 +72,4 @@
 {"role":"user","text":"/today","ts":1780869328456}
 {"role":"user","text":"영숙이 호출하는 LLM모델이 뭐죠?","ts":1781042188688}
 {"role":"user","text":"안녕","ts":1781434888128}
+{"role":"user","text":"생성형 LLM개발을 위한 tokenization 자바 라이브러리가 어떤게 있는지 알아봐 주세요","ts":1781519674596}
